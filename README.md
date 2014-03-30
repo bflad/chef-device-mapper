@@ -16,6 +16,7 @@ Installs/Configures device-mapper.
 * Debian 7
 * Fedora 19, 20
 * Oracle 6
+* RHEL 6
 * Ubuntu 12.04, 12.10, 13.04, 13.10
 
 ### Cookbooks
