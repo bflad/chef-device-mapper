@@ -16,5 +16,4 @@ supports 'oracle', '>= 6.0'
 supports 'redhat', '>= 6.0'
 supports 'ubuntu', '>= 12.04'
 
-depends 'apt'
 depends 'modules'
