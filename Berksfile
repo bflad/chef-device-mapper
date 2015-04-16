@@ -1,8 +1,8 @@
-site :opscode
+source 'https://supermarket.chef.io'
 
 metadata
 
 group :integration do
-  cookbook 'minitest-handler'
+  cookbook 'apt'
   cookbook 'device-mapper_test', path: 'test/cookbooks/device-mapper_test'
 end
